@@ -9,9 +9,11 @@ valar = {
 	random_creation = 0
 	prowess = 20 # 
 	health = 60
+	martial = 5
+	stewardship = 5
+	learning = 5
 	negate_health_penalty_add = 50
-	dread_baseline_add = 50
-	dread_gain_mult = 0.5
+
 	stress_gain_mult = -0.9
 	# LotR: There shall be no baby Saruman. Or Mrs Gandalf.
 	fertility = -1
